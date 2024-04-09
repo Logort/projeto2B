@@ -44,3 +44,7 @@ width: 35%;
 .escola-titulo{
     padding: 24px 0px;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
